@@ -27,17 +27,19 @@ This means that the use, modification, and distribution of the code are not perm
 
 ### How to encrypt a file
 
-1. Select a file ().
-2. Type in the first password which decrypts the file-content.
-3. Type in the second password which decrypts the first password.
-4. Click on encrypt.
+1. Click on Dncrypt
+2. Select a file.
+3. Type in the first password which decrypts the file-content.
+4. Type in the second password which decrypts the first password.
+5. Click on encrypt.
 
 ### How to decrypt a file
 
-1. Select a file ().
-2. Type in the first password which decrypts the file-content.
-3. Type in the second password which decrypts the first password.
-4. Click on decrypt.
+1. Click on Decrypt.
+2. Select a file.
+3. Type in the first password which decrypts the file-content.
+4. Type in the second password which decrypts the first password.
+5. Click on decrypt.
 
 ## Delphi Encryption Compendium
 
