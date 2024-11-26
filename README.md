@@ -21,7 +21,7 @@ After decryption the encrypted-marker gets deleted, so what remains is the origi
 ## Project-License
 
 The code in this project is licensed under proprietary terms.  
-This means that the use, modification, and distribution of the code are not permitted unless explicit written permission is granted by me.
+This means that the modification, and distribution of the code are not permitted unless explicit written permission is granted by me.
 
 ## Usage
 
