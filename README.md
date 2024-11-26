@@ -27,19 +27,17 @@ This means that the modification, and distribution of the code are not permitted
 
 ### How to encrypt a file
 
-1. Click on Encrypt
-2. Select a file.
-3. Type in the first password which decrypts the file-content.
-4. Type in the second password which decrypts the first password.
-5. Click on encrypt.
+1. Type in the first password which decrypts the file-content.
+2. Type in the second password which decrypts the first password.
+3. Click on Encrypt.
+4. Select a file.
 
 ### How to decrypt a file
 
-1. Click on Decrypt.
-2. Select a file.
-3. Type in the first password which decrypts the file-content.
-4. Type in the second password which decrypts the first password.
-5. Click on decrypt.
+1. Type in the first password which decrypts the file-content.
+2. Type in the second password which decrypts the first password.
+3. Click on Decrypt.
+4. Select a file.
 
 ## Delphi Encryption Compendium
 
