@@ -46,6 +46,6 @@ The Delphi Encryption Compendium provides a variety of secure data encryption an
 
 ### License
 
-The implementation and use of the Delphi Encryption Compendium is done in accordance with the terms of the Apache-2.0 License.
-The parts of the Delphi Encryption Compendium used in this project are copyrighted. 
+The implementation and use of the Delphi Encryption Compendium is done in accordance with the terms of the Apache-2.0 License.  
+The parts of the Delphi Encryption Compendium used in this project are copyrighted.  
 All rights to this code and its associated documentation belong to the original author of the Delphi Encryption Compendium.
