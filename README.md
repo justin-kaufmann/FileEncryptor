@@ -27,7 +27,7 @@ This means that the use, modification, and distribution of the code are not perm
 
 ### How to encrypt a file
 
-1. Click on Dncrypt
+1. Click on Encrypt
 2. Select a file.
 3. Type in the first password which decrypts the file-content.
 4. Type in the second password which decrypts the first password.
